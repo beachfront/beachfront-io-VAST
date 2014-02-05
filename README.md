@@ -31,7 +31,7 @@ osvers - uuencoded End User Operating System Version
 
 network - Network Type, w for wifi, c for cellular or u for unknown
 
-carrier - Uuencoded network carrier name
+carrier - uuencoded network carrier name
 
 age - End user age in years
 
