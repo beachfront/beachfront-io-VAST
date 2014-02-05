@@ -9,6 +9,7 @@ Beachfront.iO Supports VAST 2.0 output via an additional request parameter V=1.
 
 ## VAST Request Format: ##
 
+```
 http://beachfrontio.com:3000/getAd?aid=[YOUR APP ID]&uid=[YOUR AD UNIT ID]&appurl=[APP STORE or Site URL]
 
 &osvers=[Operating System Version]&network=[Network Type w, c, or u for unknown]
@@ -16,6 +17,7 @@ http://beachfrontio.com:3000/getAd?aid=[YOUR APP ID]&uid=[YOUR AD UNIT ID]&appur
 &carrier=[Network Carrier Name]&idfa=[Android ID or iOS ID for Advertisers]&age=[end user age in years]
 
 &gender=[end user gender m, f, or u for unknown]v=1
+```
 
 ## Required Parameters ##
 
