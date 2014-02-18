@@ -35,6 +35,8 @@ network - Network Type, w for wifi, c for cellular or u for unknown
 
 carrier - uuencoded network carrier name
 
+## Additional Parameters ##
+
 age - End user age in years
 
 gender - End user gender, m for male, f for female or u for unknown
