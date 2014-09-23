@@ -10,7 +10,7 @@ Beachfront.iO Supports VAST 2.0 output via an additional request parameter V=1.
 ## VAST Request Format: ##
 
 ```
-http://beachfrontio.com:3000/getAd?aid=[YOUR APP ID]&uid=[YOUR AD UNIT ID]&appurl=[APP STORE or Site URL]
+http://io-api-1173461934.us-east-1.elb.amazonaws.com/getAd?aid=[YOUR APP ID]&uid=[YOUR AD UNIT ID]&appurl=[APP STORE or Site URL]
 
 &osvers=[Operating System Version]&network=[Network Type w, c, or u for unknown]
 
