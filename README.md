@@ -14,7 +14,7 @@ http://io-api-1173461934.us-east-1.elb.amazonaws.com/getAd?aid=[YOUR APP ID]&uid
 
 &osvers=[Operating System Version]&network=[Network Type w, c, or u for unknown]
 
-&carrier=[Network Carrier Name]&idfa=[Android ID or iOS ID for Advertisers]&age=[end user age in years]
+&carrier=[Network Carrier Name]&idfa=[Android ID or iOS ID for Advertisers]&te=[target ad tracking enabled]&age=[end user age in years]
 
 &gender=[end user gender m, f, or u for unknown]v=1
 ```
@@ -26,6 +26,8 @@ aid - Your Beachfront.io App ID
 uid - Your Beachfront.io Ad Unit ID
 
 idfa - iOS ID for Advertisers or Android ID
+
+te - Target Ad Tracking Enabled ( true or false )
 
 appurl - App Store URL or Mobile Web Site URL
 
