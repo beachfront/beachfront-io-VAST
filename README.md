@@ -16,7 +16,7 @@ http://io-api-1173461934.us-east-1.elb.amazonaws.com/getAd?aid=[YOUR APP ID]&uid
 
 &carrier=[Network Carrier Name]&idfa=[Android ID or iOS ID for Advertisers]&te=[target ad tracking enabled]&age=[end user age in years]
 
-&gender=[end user gender m, f, or u for unknown]v=1
+&gender=[end user gender m, f, or u for unknown]&v=1
 ```
 
 ## Required Parameters ##
