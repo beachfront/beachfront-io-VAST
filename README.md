@@ -37,6 +37,12 @@ network - Network Type, w for wifi, c for cellular or u for unknown
 
 carrier - uuencoded network carrier name
 
+## Required Parameters for Server-to-Server integration ##
+
+ip - Device IP address
+
+ua - Device User agent 
+
 ## Additional Parameters ##
 
 age - End user age in years
