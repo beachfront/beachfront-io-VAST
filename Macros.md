@@ -1,9 +1,7 @@
 Suppport Macros in VAST URL
 ==================
 
-## Overview  ##
-
-Following macros are supported in Vasr URL - Applicable for Advertisers
+Following macros are supported in Vast URL - Applicable for Advertisers
 
 1. [cachebuster] : Random Number
 2. [ipaddress] : Device IP Address
