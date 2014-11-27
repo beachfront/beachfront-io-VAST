@@ -28,3 +28,4 @@ Following macros are supported in Vast URL - Applicable for Advertisers
 21. [io_country] : Country 
 22. [io_deviceos] : Device OS
 23. [io_devicemake] : Device Make
+24. [io_domain] : Page/Referral Domain (Mobile Web)
