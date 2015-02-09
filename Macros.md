@@ -13,7 +13,7 @@ Following macros are supported in Vast URL - Applicable for Advertisers
 7. [gender]  : User Gender
 8. [useragent] : Device User agent
 9. [idfa]  : Device advertising Identifier (Native Apps)
-10. [te] : Device advertising tracking enabled (Native Apps)
+10. [te] : Device advertising tracking enabled (Native Apps) true|false
 11. [osvers] : Device OS version
 12. [carrier] : Device Carrier
 13. [network] : Device Network
@@ -29,3 +29,5 @@ Following macros are supported in Vast URL - Applicable for Advertisers
 22. [io_deviceos] : Device OS
 23. [io_devicemake] : Device Make
 24. [io_domain] : Page/Referral Domain (Mobile Web)
+25. [io_devicemodel] : Device Model
+26. [io_dnt] : Do not track (Native Apps) 1|0 if "0", then do not track is set to false, if "1", then do no track is set to true.
