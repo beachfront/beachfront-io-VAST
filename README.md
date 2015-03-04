@@ -43,6 +43,10 @@ ip - Device IP address
 
 ua - Device User agent 
 
+pageurl - Page URL (Mobile Web)
+
+bundleid = Store unique identifier (Native Apps)
+
 ## Additional Parameters ##
 
 age - End user age in years
