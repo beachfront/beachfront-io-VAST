@@ -45,7 +45,7 @@ ua - Device User agent
 
 pageurl - Page URL (Mobile Web)
 
-bundleid = Store unique identifier (Native Apps)
+bundleid - Store unique identifier (Native Apps)
 
 ## Additional Parameters ##
 
