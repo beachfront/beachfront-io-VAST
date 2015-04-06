@@ -31,3 +31,5 @@ Following macros are supported in Vast URL - Applicable for Advertisers
 24. [io_domain] : Page/Referral Domain (Mobile Web)
 25. [io_devicemodel] : Device Model
 26. [io_dnt] : Do not track (Native Apps) 1|0 if "0", then do not track is set to false, if "1", then do no track is set to true.
+27. [io_lat] : Latitude
+28. [io_lng] : Longitude
