@@ -53,6 +53,9 @@ age - End user age in years
 
 gender - End user gender, m for male, f for female or u for unknown
 
+lat - Latitude
+
+lng - Longitude
 
 ## STEPS FOR INTEGRATION: ##
 
