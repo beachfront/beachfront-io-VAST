@@ -29,7 +29,7 @@ idfa - iOS ID for Advertisers or Android ID
 
 te - Target Ad Tracking Enabled ( true or false )
 
-appurl - App Store URL or Mobile Web Site URL
+appurl - App Store URL or Mobile Web domain URL
 
 osvers - uuencoded End User Operating System Version
 
