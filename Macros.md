@@ -34,4 +34,4 @@ Following macros are supported in Vast URL - Applicable for Advertisers
 27. [io_lat] : Latitude
 28. [io_lng] : Longitude
 29. [io_lat_trun] : Latitude truncated to three places
-30. io_lng_trun : Longitude truncated to three places
+30. [io_lng_trun] : Longitude truncated to three places
