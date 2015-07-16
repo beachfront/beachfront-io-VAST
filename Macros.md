@@ -33,3 +33,5 @@ Following macros are supported in Vast URL - Applicable for Advertisers
 26. [io_dnt] : Do not track (Native Apps) 1|0 if "0", then do not track is set to false, if "1", then do no track is set to true.
 27. [io_lat] : Latitude
 28. [io_lng] : Longitude
+29. [io_lat_trun] : Latitude truncated to three places
+30. io_lng_trun : Longitude truncated to three places
