@@ -59,6 +59,11 @@ lat - Latitude
 
 lng - Longitude
 
+width - Player Width
+
+height - Player Height
+
+
 ## STEPS FOR INTEGRATION: ##
 
 1. Log in or Register for an Account
