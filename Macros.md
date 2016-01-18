@@ -37,3 +37,4 @@ Following macros are supported in Vast URL - Applicable for Advertisers
 30. [io_lng_trun] : Longitude truncated to three places
 31. [io_width] : Player width
 32. [io_height]: Plater height
+33. [io_idfa_sha1] : Device advertising Identifier (Native Apps) in SHA1 
