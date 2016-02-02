@@ -38,3 +38,4 @@ Following macros are supported in Vast URL - Applicable for Advertisers
 31. [io_width] : Player width
 32. [io_height]: Plater height
 33. [io_idfa_sha1] : Device advertising Identifier (Native Apps) in SHA1 
+34. [io_idfa_md5] : Device advertising Identifier (Native Apps) in MD5 
