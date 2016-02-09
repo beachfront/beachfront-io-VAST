@@ -1,7 +1,7 @@
 Suppport Macros in VAST URL
 ==================
 
-Following macros are supported in Vast URL - Applicable for Advertisers
+Following macros are supported in Vast URL - Applicable for Advertisers. Macros are case-sensitive and must include [brackets].
 
 1. [cachebuster] : Random Number
 2. [ipaddress] : Device IP Address
