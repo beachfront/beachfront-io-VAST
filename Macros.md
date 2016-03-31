@@ -39,3 +39,4 @@ Following macros are supported in Vast URL - Applicable for Advertisers. Macros 
 32. [io_height]: Plater height
 33. [io_idfa_sha1] : Device advertising Identifier (Native Apps) in SHA1 
 34. [io_idfa_md5] : Device advertising Identifier (Native Apps) in MD5 
+35. [io_timezone] : Device Timezone in (-/+)HH.MM format example +0530
