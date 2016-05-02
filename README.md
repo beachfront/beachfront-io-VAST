@@ -63,6 +63,8 @@ width - Player Width
 
 height - Player Height
 
+i_type - Inventory Type, Possible values (pre, mid, post, inte, out, feed)
+
 
 ## STEPS FOR INTEGRATION: ##
 
