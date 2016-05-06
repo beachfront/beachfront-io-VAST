@@ -47,7 +47,7 @@ pageurl - Page URL (Mobile Web)
 
 bundleid - Store unique identifier (Native Apps)
 
-appname - App name (Native Apps)
+idfa - iOS ID for Advertisers or Android ID (Native Apps)
 
 ## Additional Parameters ##
 
