@@ -5,11 +5,10 @@ Following macros are supported in Vast URL - Applicable for Advertisers. Macros 
 
 1. [cachebuster] : Random Number
 2. [ipaddress] : Device IP Address
-3. [uuid]  : Device UUID
-4. [page_url]  : Page URL (Mobile Web)
-5. [Ref_Url]  : Reffer URL (Mobile Web)
-6. [Random_Number] : Random Number
-7. [age] : User Age
+3. [page_url]  : Page URL (Mobile Web)
+4. [Ref_Url]  : Reffer URL (Mobile Web)
+5. [Random_Number] : Random Number
+6. [age] : User Age
 7. [gender]  : User Gender
 8. [useragent] : Device User agent
 9. [idfa]  : Device advertising Identifier (Native Apps)
