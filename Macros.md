@@ -40,3 +40,4 @@ Following macros are supported in Vast URL - Applicable for Advertisers. Macros 
 34. [io_idfa_md5] : Device advertising Identifier (Native Apps) in MD5 
 35. [io_timezone] : Device Timezone in (-/+)HH.MM format example +0530
 36. [io_timestamp_date] : Timestamp in MM-DD-YYYY hh:mm:ss format. For example, 01-01-2016 01:00:00
+37. [io_inventory_id] : Inventory id
